@@ -1,6 +1,6 @@
 # BEN with namespace
-namespace-block__user-defined-element--some-modifier
+namespace-block-name__user-defined-element-name--some-modifier-name
 # namespace
--> js- for js hook
--> o- for object
+1. js- for js hook
+2. o- for object
 ....
