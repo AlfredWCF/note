@@ -168,3 +168,39 @@ To display scripts in Windows PowerShell's search path, type:
 
 ## [Using Variables to Store Objects](https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/using-variables-to-store-objects?view=powershell-5.1) ##
 
+> Variables are always specified with the initial character $, and can include any alphanumeric characters or the underscore in their names. 
+
+### Creating a Variable ###
+
+        $loc
+        $loc = Get-Location
+        $loc | Get-Member -MemberType Property
+
+### Manipulating Variables ###
+
+You can see a complete listing in a readable form by typing:
+
+        Get-Command -Noun Variable | Format-Table -Property Name,Definition -AutoSize -Wrap
+
+Type the following command to clear all variables:
+
+        Remove-Variable -Name * -Force -ErrorAction SilentlyContinue
+
+display all PowerShell variables by typing:
+        Get-Variable
+        Get-ChildItem variable:
+
+### Using Cmd.exe Variables ###
+
+It can use the same variables available in any environment in Windows,These variables are exposed through a drive named env:
+
+        Get-PSDrive         # Gets drives in the current session.
+        Get-ChildItem env:
+
+Although the standard variable cmdlets are not designed to work with env: variables, you can still use them by specifying the env: prefix. For example, to see the operating system root directory, you can use the command-shell %SystemRoot% variable from within PowerShell by typing:
+
+        $env:SystemRoot
+
+***
+
+        
