@@ -3,7 +3,14 @@
 
 # TODO
 
+* [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [jQuery](http://jquery.com/)
+
 * [powershell learning](https://docs.microsoft.com/zh-cn/powershell/)
+* [PowerShell 3.0 入门教程(视频)](http://www.pstips.net/powershell-v3-basic)
+* [Desired State Configuration](https://docs.microsoft.com/en-us/powershell/dsc/overview)
+* [PowerShell Gallery](https://www.powershellgallery.com/)
+
 * [visual studio](https://docs.microsoft.com/en-us/visualstudio/ide/index)
 * [.net](https://docs.microsoft.com/en-us/dotnet/welcome)
 * [configuration files](https://docs.microsoft.com/en-us/dotnet/framework/configure-apps/index)
