@@ -7,7 +7,7 @@
 * [jQuery](http://jquery.com/)
 
 * [powershell learning](https://docs.microsoft.com/zh-cn/powershell/)
-* [PowerShell 3.0 入门教程(视频)](http://www.pstips.net/powershell-v3-basic)
+* [PowerShell 3.0 入门教程(视频)](https://mva.microsoft.com/zh-cn/training-courses/-power-shell-30-14443?l=j1ngD3PkB_7800115888)
 * [PowerShell.org](https://powershell.org/)
 * [Desired State Configuration](https://docs.microsoft.com/en-us/powershell/dsc/overview)
 * [PowerShell Gallery](https://www.powershellgallery.com/)
