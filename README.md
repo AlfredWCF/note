@@ -7,6 +7,7 @@
 * [jQuery](http://jquery.com/)
 
 * active directory and domain
+* [secrets-of-powershell-remoting](https://github.com/devops-collective-inc/secrets-of-powershell-remoting/blob/master/SUMMARY.md)
 * [powershell learning](https://docs.microsoft.com/zh-cn/powershell/)
 * [PowerShell 3.0 入门教程(视频)](https://mva.microsoft.com/zh-cn/training-courses/-power-shell-30-14443?l=j1ngD3PkB_7800115888)
 * [另一个视频](http://www.pstips.net/powershell-v3-basic/#%E8%AF%BE%E7%A8%8B%205%20:%20%E6%B7%B1%E5%85%A5%E6%8E%A2%E8%AE%A8%E7%AE%A1%E9%81%93)
