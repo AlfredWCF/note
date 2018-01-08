@@ -3,6 +3,8 @@
 HELP me
 * use the Update-Help cmdlet to download and install the newest help files on your computer.
 * use the Get-Help cmdlet to display help.
+* use -WhatIf and -Confirm parameter
+        Get-Service -DisplayName *bi* | Stop-Service -WhatIf
 
 RUN scripts
 * the default execution policy on Windows PowerShell is Restricted. This policy allows you to run cmdlets, but not scripts.
@@ -203,4 +205,3 @@ Although the standard variable cmdlets are not designed to work with env: variab
 
 ***
 
-        
