@@ -7,6 +7,7 @@
 * [jQuery](http://jquery.com/)
 
 * active directory and domain
+* [Learn PowerShell Toolmaking in a Month of Lunches ](https://www.manning.com/books/learn-powershell-toolmaking-in-a-month-of-lunches)
 * [secrets-of-powershell-remoting](https://github.com/devops-collective-inc/secrets-of-powershell-remoting/blob/master/SUMMARY.md)
 * [powershell learning](https://docs.microsoft.com/zh-cn/powershell/)
 * [PowerShell 3.0 入门教程(视频)](https://mva.microsoft.com/zh-cn/training-courses/-power-shell-30-14443?l=j1ngD3PkB_7800115888)
