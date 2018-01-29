@@ -1,5 +1,10 @@
 >整整15年来，MSDN与TechNet的代码库几乎都没有经历过任何变化。近日，微软终于决定淘汰这两个网站，
 >新的网站<docs.microsoft.com>将取而代之，并作为开源项目发布。
+***
+
+#power shell 的get-help命令，功能强大，要善加利用#
+不要尝试记住太多东西，原理很重要。
+要善用power shell中的get-help命令，以及熟读所使用工具的官方文档。
 
 # TODO
 
