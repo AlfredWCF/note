@@ -8,6 +8,9 @@
 
 # TODO
 
+* [Android 中国](https://developer.android.google.cn/guide/index.html)
+* [Android 开发](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
+
 * [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [jQuery](http://jquery.com/)
 
