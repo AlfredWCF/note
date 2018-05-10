@@ -39,4 +39,5 @@
 * firefox 浏览器开发（chrome需要翻墙，转到firefox阵营）
 * docker container to image 
 * [selenium & phantomjs](https://www.cnblogs.com/endlock/p/6423613.html)
+* [编码相关](https://blog.csdn.net/wabil/article/details/50807240)
 * ...
