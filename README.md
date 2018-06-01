@@ -8,6 +8,8 @@
 
 # TODO
 
+* [Windows 管理框架](https://docs.microsoft.com/en-us/powershell/wmf/readme)
+
 * [Android 中国](https://developer.android.google.cn/guide/index.html)
 * [Android 开发](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 
